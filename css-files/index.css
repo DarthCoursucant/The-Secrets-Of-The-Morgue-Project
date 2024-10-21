@@ -44,3 +44,11 @@ html, body {
     height: 110px;
     border-radius: 20px;
   }
+
+  .main-text-index {
+    width: 900px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 150px;
+    color: #ffffff;
+  }
