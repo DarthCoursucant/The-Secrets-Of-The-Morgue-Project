@@ -25,7 +25,7 @@ html, body {
     flex-grow: 0; /* 0. Only takes the place it needs */
     flex-shrink: 0;
     color: #fafafa;
-    background-color: #000000;
+    background-color: #000;
     padding: 10px;
   }
   
