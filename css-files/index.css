@@ -45,6 +45,38 @@ html, body {
     border-radius: 20px;
   }
 
+  .icon-location-header {
+    margin-left: 65%;
+    margin-top: 25px;
+  }
+
+  .about-icon, .contact-icon, .evidence-icon {
+    margin-left: 10%;
+  }
+
+  .all-posts-icon img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .about-icon img {
+    width: 55px;
+    height: 55px;
+    margin-top: -8px;
+  }
+
+  .contact-icon img {
+    width: 50px;
+    height: 50px;
+    margin-top: -8px;
+  }
+
+  .evidence-icon img {
+    width: 50px;
+    height: 45px;
+    margin-top: -5px;
+  }
+
   .main-text-index {
     width: 900px;
     text-align: center;
