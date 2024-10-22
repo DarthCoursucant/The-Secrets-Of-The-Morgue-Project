@@ -146,6 +146,7 @@
 .post-button a {
     text-decoration: none;
     color: red;
+    font-size: 25px;
 }
 
 .post-button {
@@ -154,4 +155,9 @@
     border-radius: 20px;
     border: 2px solid #ffffff;
     margin-left: 80px;
+    margin-top: 60px;
+}
+
+.hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+    margin-bottom: 100px;
 }
