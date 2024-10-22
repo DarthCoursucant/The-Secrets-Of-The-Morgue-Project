@@ -1,121 +1,4 @@
-body {
-    margin: 0;
-    padding: 0;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../media/index-photo.jpg');
-}
-
-html, body {
-    box-sizing: border-box;
-    height: 100%;
-    padding: 0;
-    margin: 0;
-  }
-  
-  body {
-    /*min-height: 100%; /* Use if set on container, not body */
-    font-size: 2rem;
-    display: flex;
-    flex-direction: column;
-  }
-  
-  header.page-header, footer.page-footer {
-    flex-grow: 0; /* 0. Only takes the place it needs */
-    flex-shrink: 0;
-    color: #fafafa;
-    background-color: #000;
-    padding: 10px;
-  }
-  
-  main.page-body {
-    flex-grow: 1; /* 1. Let main take all available space */
-    padding: 0 10px;
-    color: black;
-  }
-
-  #header-thing, .icon-location-header, .buttons-index-container {
-    display: flex;
-  }
-
-  .logo-location img {
-    width: 220px;
-    height: 110px;
-    border-radius: 20px;
-  }
-
-  .icon-location-header {
-    margin-left: 65%;
-    margin-top: 25px;
-  }
-
-  .about-icon, .contact-icon, .evidence-icon {
-    margin-left: 10%;
-  }
-
-  .all-posts-icon img {
-    width: 40px;
-    height: 40px;
-  }
-
-  .about-icon img {
-    width: 55px;
-    height: 55px;
-    margin-top: -8px;
-  }
-
-  .contact-icon img {
-    width: 50px;
-    height: 50px;
-    margin-top: -8px;
-  }
-
-  .evidence-icon img {
-    width: 50px;
-    height: 45px;
-    margin-top: -5px;
-  }
-
-  .socials-links-footer {
-    display: flex;
-  }
-
-  .footer-title {
-    text-align: center;
-  }
-
-  .footer-title h1 {
-    font-size: 30px;
-  }
-
-  #instagram-link-footer img, #facebook-link-footer img, #twitter-link-footer img, #linkedin-link-footer img, #twitch-link-footer img, #spotify-link-footer img, #youtube-link-footer img, #goodreads-link-footer img {
-    margin-left: 20px;
-  }
-
-  #twitch-link-footer img, #goodreads-link-footer img {
-    width: 40px;
-    height: 40px;
-    margin-top: 5px;
-  }
-
-  #spotify-link-footer img {
-    width: 45px;
-    height: 45px;
-    margin-top: 2px;
-  }
-
-  #youtube-link-footer img {
-    width: 60px;
-    height: 60px;
-    margin-top: -5px;
-  }
-
-  #mail-link-footer {
-    margin-left: 400px;
-  }
-
-  .main-text-index {
+.main-text-index {
     width: 900px;
     text-align: center;
     margin-left: 300px;
@@ -123,7 +6,7 @@ html, body {
     color: #ffffff;
   }
 
-  .index-button {
+.index-button {
     background-color: #818181;
     border-radius: 20px;
     border: 2px solid #ffffff;
@@ -133,15 +16,15 @@ html, body {
     margin-bottom: 200px;
   }
 
- .index-button a {
+.index-button a {
     text-decoration: none;
     color: #ffffff;
   }
 
-  #about-button {
+#about-button {
     margin-left: 180px;
   }
 
-  #evidence-button, #all-posts-button, #contact-button {
+#evidence-button, #all-posts-button, #contact-button {
     margin-left: 100px;
   }
