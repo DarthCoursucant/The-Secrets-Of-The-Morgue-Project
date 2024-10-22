@@ -46,7 +46,19 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/twelve.jpeg");
 }
 
-.hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve {
+.hero-image-post-thirteen {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/thirteen.jpg");
+}
+
+.hero-image-post-fourteen {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/fourteen.avif");
+}
+
+.hero-image-post-fifteen {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/fifteen.jpeg");
+}
+
+.hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
