@@ -53,17 +53,24 @@ html, body {
     color: #ffffff;
   }
 
-  #index-button {
+  .index-button {
     background-color: #818181;
     border-radius: 20px;
     border: 2px solid #ffffff;
     width: 200px;
     text-align: center;
-    margin-left: 130px;
     margin-top: 100px;
   }
 
-  #index-button a {
+ .index-button a {
     text-decoration: none;
     color: #ffffff;
+  }
+
+  #about-button {
+    margin-left: 180px;
+  }
+
+  #evidence-button, #all-posts-button, #contact-button {
+    margin-left: 100px;
   }
