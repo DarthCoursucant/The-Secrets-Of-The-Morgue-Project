@@ -39,4 +39,11 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    width: 400px;
+    margin-left: 70px;
+}
+
+.flex-container {
+    display: flex;
+    margin-top: 50px;
 }
