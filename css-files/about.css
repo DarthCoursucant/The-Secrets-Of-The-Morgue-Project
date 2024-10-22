@@ -1,0 +1,33 @@
+.about-container h1, .about-container h2 {
+    text-transform: capitalize;
+}
+
+.about-container {
+    color: #000000;
+}
+
+.about-container {
+    width: 70%;
+    margin-left: 15%;
+    text-align: center;
+    border-radius: 20px;
+    border: 3px solid #ffffff;
+    margin-top: 7%;
+    margin-bottom: 10%;
+    background-color: rgba(255, 255, 255, 0.5);
+
+}
+
+.about-container h1 {
+    font-size: 35px;
+}
+
+.about-container h2 {
+    font-size: 30px;
+}
+
+.about-container p {
+    font-size: 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
