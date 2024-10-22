@@ -26,7 +26,15 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/seven.jpg");
 }
 
-.hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven {
+.hero-image-post-eight {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/eight.jpg");
+}
+
+.hero-image-post-nine {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/nine.webp");
+}
+
+.hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
