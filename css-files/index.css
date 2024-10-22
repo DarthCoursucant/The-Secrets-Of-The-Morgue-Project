@@ -85,6 +85,36 @@ html, body {
     text-align: center;
   }
 
+  .footer-title h1 {
+    font-size: 30px;
+  }
+
+  #instagram-link-footer img, #facebook-link-footer img, #twitter-link-footer img, #linkedin-link-footer img, #twitch-link-footer img, #spotify-link-footer img, #youtube-link-footer img, #goodreads-link-footer img {
+    margin-left: 20px;
+  }
+
+  #twitch-link-footer img, #goodreads-link-footer img {
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+  }
+
+  #spotify-link-footer img {
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+  }
+
+  #youtube-link-footer img {
+    width: 60px;
+    height: 60px;
+    margin-top: -5px;
+  }
+
+  #mail-link-footer {
+    margin-left: 400px;
+  }
+
   .main-text-index {
     width: 900px;
     text-align: center;
@@ -100,6 +130,7 @@ html, body {
     width: 200px;
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 200px;
   }
 
  .index-button a {
