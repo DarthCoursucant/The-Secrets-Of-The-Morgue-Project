@@ -77,6 +77,14 @@ html, body {
     margin-top: -5px;
   }
 
+  .socials-links-footer {
+    display: flex;
+  }
+
+  .footer-title {
+    text-align: center;
+  }
+
   .main-text-index {
     width: 900px;
     text-align: center;
