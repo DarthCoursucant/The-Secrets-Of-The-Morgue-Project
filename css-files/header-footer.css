@@ -1,116 +1,107 @@
-body {
-  margin: 0;
-  padding: 0;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../media/index-photo.jpg');
-}
-
 html, body {
-  box-sizing: border-box;
-  height: 100%;
-  padding: 0;
-  margin: 0;
-}
+    box-sizing: border-box;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    /*min-height: 100%; /* Use if set on container, not body */
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header.page-header, footer.page-footer {
+    flex-grow: 0; /* 0. Only takes the place it needs */
+    flex-shrink: 0;
+    color: #fafafa;
+    background-color: #000;
+    padding: 10px;
+  }
+  
+  main.page-body {
+    flex-grow: 1; /* 1. Let main take all available space */
+    padding: 0 10px;
+    color: black;
+  }
 
-body {
-  /*min-height: 100%; /* Use if set on container, not body */
-  font-size: 2rem;
-  display: flex;
-  flex-direction: column;
-}
+  #header-thing, .icon-location-header {
+    display: flex;
+  }
 
-header.page-header, footer.page-footer {
-  flex-grow: 0; /* 0. Only takes the place it needs */
-  flex-shrink: 0;
-  color: #fafafa;
-  background-color: #000;
-  padding: 10px;
-}
+  .logo-location img {
+    width: 220px;
+    height: 110px;
+    border-radius: 20px;
+  }
 
-main.page-body {
-  flex-grow: 1; /* 1. Let main take all available space */
-  padding: 0 10px;
-  color: black;
-}
+  .icon-location-header {
+    margin-left: 65%;
+    margin-top: 25px;
+  }
 
-#header-thing, .icon-location-header, .buttons-index-container {
-  display: flex;
-}
+  .about-icon, .contact-icon, .evidence-icon {
+    margin-left: 10%;
+  }
 
-.logo-location img {
-  width: 220px;
-  height: 110px;
-  border-radius: 20px;
-}
+  .all-posts-icon img {
+    width: 40px;
+    height: 40px;
+  }
 
-.icon-location-header {
-  margin-left: 65%;
-  margin-top: 25px;
-}
+  .about-icon img {
+    width: 55px;
+    height: 55px;
+    margin-top: -8px;
+  }
 
-.about-icon, .contact-icon, .evidence-icon {
-  margin-left: 10%;
-}
+  .contact-icon img {
+    width: 50px;
+    height: 50px;
+    margin-top: -8px;
+  }
 
-.all-posts-icon img {
-  width: 40px;
-  height: 40px;
-}
+  .evidence-icon img {
+    width: 50px;
+    height: 45px;
+    margin-top: -5px;
+  }
 
-.about-icon img {
-  width: 55px;
-  height: 55px;
-  margin-top: -8px;
-}
+  .socials-links-footer {
+    display: flex;
+  }
 
-.contact-icon img {
-  width: 50px;
-  height: 50px;
-  margin-top: -8px;
-}
+  .footer-title {
+    text-align: center;
+  }
 
-.evidence-icon img {
-  width: 50px;
-  height: 45px;
-  margin-top: -5px;
-}
+  .footer-title h1 {
+    font-size: 30px;
+  }
 
-.socials-links-footer {
-  display: flex;
-}
+  #instagram-link-footer img, #facebook-link-footer img, #twitter-link-footer img, #linkedin-link-footer img, #twitch-link-footer img, #spotify-link-footer img, #youtube-link-footer img, #goodreads-link-footer img {
+    margin-left: 20px;
+  }
 
-.footer-title {
-  text-align: center;
-}
+  #twitch-link-footer img, #goodreads-link-footer img {
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+  }
 
-.footer-title h1 {
-  font-size: 30px;
-}
+  #spotify-link-footer img {
+    width: 45px;
+    height: 45px;
+    margin-top: 2px;
+  }
 
-#instagram-link-footer img, #facebook-link-footer img, #twitter-link-footer img, #linkedin-link-footer img, #twitch-link-footer img, #spotify-link-footer img, #youtube-link-footer img, #goodreads-link-footer img {
-  margin-left: 20px;
-}
+  #youtube-link-footer img {
+    width: 60px;
+    height: 60px;
+    margin-top: -5px;
+  }
 
-#twitch-link-footer img, #goodreads-link-footer img {
-  width: 40px;
-  height: 40px;
-  margin-top: 5px;
-}
-
-#spotify-link-footer img {
-  width: 45px;
-  height: 45px;
-  margin-top: 2px;
-}
-
-#youtube-link-footer img {
-  width: 60px;
-  height: 60px;
-  margin-top: -5px;
-}
-
-#mail-link-footer {
-  margin-left: 400px;
-}
+  #mail-link-footer {
+    margin-left: 400px;
+  }
