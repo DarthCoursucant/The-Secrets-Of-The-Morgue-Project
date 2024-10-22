@@ -14,7 +14,11 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/four.jpg");
 }
 
-.hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four {
+.hero-image-post-five {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../media/posts/five.jpg");
+}
+
+.hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
