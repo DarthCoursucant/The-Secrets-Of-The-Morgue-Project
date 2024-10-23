@@ -1,0 +1,38 @@
+.evidence-container-shit {
+    text-transform: capitalize;
+    color: #000000;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 20px;
+    height: 1300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.evidence-container-shit h1 {
+    font-size: 35px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.evidence-container-shit p {
+    font-size: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.button-thing {
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    border: 2px solid #ff0000;
+    margin-left: 38%;
+}
+
+.button-thing a {
+    text-decoration: none;
+    color: #ff0000;
+}
