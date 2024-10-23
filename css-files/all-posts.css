@@ -216,11 +216,13 @@
 .full-story-of-event h1 {
     font-size: 35px;
     padding-top: 20px;
+    text-transform: capitalize;
 }
 
 .full-story-of-event h2 {
     font-size: 30px;
     padding-top: 20px;
+    text-transform: capitalize;
 }
 
 .full-story-of-event p {
