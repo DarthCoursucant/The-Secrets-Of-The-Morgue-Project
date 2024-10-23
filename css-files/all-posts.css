@@ -201,3 +201,14 @@
     margin-bottom: 40px;
     margin-top: 40px;
 }
+
+.full-story-of-event {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    border-radius: 20px;
+    border: 2px solid #000000;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
