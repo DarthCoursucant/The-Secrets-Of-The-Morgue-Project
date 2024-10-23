@@ -1,11 +1,27 @@
-.container-one-contact {
+.flex-container-for-contact {
+    display: flex;
+}
+
+.container-one-contact, .container-two-contact {
     text-transform: capitalize;
     color: #ffffff;
-    background-color: aquamarine;
-    width: 50%;
+    width: 42%;
     border-radius: 20px;
     text-align: center;
-    height: 600px;
+    margin-left: 5%;
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 2px solid #000000;
+}
+
+.container-one-contact {
+    margin-top: 5%;
+    height: 750px;
+    margin-bottom: 5%;
+}
+
+.container-two-contact {
+    margin-top: 15%;
+    height: 400px;
 }
 
 .container-one-contact h1 {
@@ -13,6 +29,13 @@
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.container-two-contact h1 {
+    font-size: 35px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .container-one-contact h2 {
@@ -25,4 +48,19 @@
     font-size: 25px;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.send-evidence-button a {
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.send-evidence-button {
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    border: 2px solid #ff0000;
+    margin-left: 25%;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
