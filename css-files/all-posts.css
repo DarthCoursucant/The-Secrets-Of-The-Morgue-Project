@@ -137,10 +137,12 @@
 .hero-text {
     text-align: center;
     color: #ffffff;
+    font-family: "Agdasima", sans-serif;
 }
 
 .hero-text h1 {
     font-size: 30px;
+    font-family: "Agdasima", sans-serif;
 }
 
 .post-button a {
@@ -150,14 +152,52 @@
 }
 
 .post-button {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     width: 250px;
     border-radius: 20px;
-    border: 2px solid #ffffff;
+    border: 2px solid #ff0000;
     margin-left: 80px;
     margin-top: 60px;
 }
 
 .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
     margin-bottom: 100px;
+}
+
+.all-post-page-title-shit {
+    text-align: center;
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 65%;
+    margin-left: 18%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    border: 2px solid #000000;
+}
+
+.all-post-page-title-shit h1 {
+    font-size: 35px;
+}
+
+.all-post-page-title-shit p {
+    text-transform: capitalize;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 25px;
+}
+
+.send-evidence-button a {
+    text-decoration: none;
+    color: red;
+}
+
+.send-evidence-button {
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    border: 2px solid #ff0000;
+    margin-left: 33%;
+    margin-bottom: 40px;
+    margin-top: 40px;
 }
