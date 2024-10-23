@@ -169,15 +169,16 @@
     color: #ffffff;
     background-color: rgba(255, 255, 255, 0.5);
     width: 65%;
+    height: 300px;
     margin-left: 18%;
     margin-top: 5%;
     margin-bottom: 5%;
     border-radius: 20px;
-    border: 2px solid #000000;
 }
 
 .all-post-page-title-shit h1 {
     font-size: 35px;
+    padding-top: 30px;
 }
 
 .all-post-page-title-shit p {
@@ -197,9 +198,9 @@
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 20px;
     border: 2px solid #ff0000;
-    margin-left: 33%;
+    margin-left: 34%;
     margin-bottom: 40px;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 
 .full-story-of-event {
@@ -208,7 +209,6 @@
     margin-left: 5%;
     text-align: center;
     border-radius: 20px;
-    border: 2px solid #000000;
     margin-top: 6%;
     margin-bottom: 10%;
 }
