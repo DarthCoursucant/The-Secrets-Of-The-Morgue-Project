@@ -1,0 +1,30 @@
+.main-text-index {
+    width: 900px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 150px;
+    color: #ffffff;
+  }
+
+.index-button {
+    background-color: #818181;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
+    width: 200px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+  }
+
+.index-button a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+
+#about-button {
+    margin-left: 180px;
+  }
+
+#evidence-button, #all-posts-button, #contact-button {
+    margin-left: 100px;
+  }
