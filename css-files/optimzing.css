@@ -30,6 +30,28 @@
     .hero-text h1 {
         font-size: 25px;
     }
+
+    .container-one-contact h1, .container-two-contact h1 {
+        font-size: 30px;
+    }
+      
+    .container-one-contact h2 {
+        font-size: 25px;
+    }
+      
+    .container-one-contact p {
+        font-size: 20px;
+    }
+      
+    .send-evidence-button-contact {
+        width: 200px;
+        height: 50px;
+        margin-left: 150px;
+    }
+      
+    .send-evidence-button-contact a {
+        font-size: 20px;
+    }
 }
 
 /*MAX WITH 1200PX*/
@@ -70,6 +92,20 @@
     .hero-text h1 {
         font-size: 20px;
     }
+
+    .container-one-contact h1, .container-two-contact h1 {
+        font-size: 25px;
+    }
+      
+    .container-one-contact h2 {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+      
+    .container-one-contact p {
+        font-size: 18px;
+        margin-top: 20px;
+    }
 }
 
 /*MAX WITH 1120PX*/
@@ -96,6 +132,10 @@
       
     .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
         margin-left: 30px;
+    }
+
+    .send-evidence-button-contact {
+        width: 150px;
     }
 }
 
@@ -136,6 +176,10 @@
     .send-evidence-button {
         margin-left: 190px;
     }
+
+    .send-evidence-button-contact {
+        margin-left: 120px;
+    }
 }
 
 /*MAX WITH 1000PX*/
@@ -165,7 +209,7 @@
     .send-evidence-button {
         width: 250px;
     }
-  }
+}
 
 /*MAX WITH 950PX*/
 @media (max-width: 950px) {
@@ -183,6 +227,29 @@
 
     .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
         margin-left: 200px;
+    }
+
+    .container-one-contact h1, .container-two-contact h1 {
+        font-size: 20px;
+    }
+      
+    .container-one-contact h2 {
+        font-size: 18px;
+        margin-top: 50px;
+    }
+      
+    .container-one-contact p {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+  
+    .send-evidence-button-contact a {
+        font-size: 15px;
+    }
+  
+    .send-evidence-button-contact {
+        width: 100px;
+        margin-left: 130px;
     }
 }
 
@@ -275,6 +342,10 @@
     .post-button {
         margin-left: 120px;
     }
+
+    .send-evidence-button-contact {
+        margin-left: 80px;
+    }
 }
 
 /*MAX WITH 680PX*/
@@ -335,6 +406,28 @@
     .hero-text h1 {
         font-size: 18px;
     }
+
+    .flex-container-for-contact {
+        flex-direction: column;
+    }
+      
+    .container-one-contact {
+        height: 630px;
+        margin-left: 200px;
+    }
+      
+    .container-two-contact {
+        margin-left: 200px;
+        margin-top: 0px;
+        margin-bottom: 50px;
+    }
+}
+
+/*MAX WITH 630PX*/
+@media (max-width: 630px) {
+    .container-one-contact {
+        height: 680px;
+    }
 }
 
 /*MAX WITH 600PX*/
@@ -364,6 +457,21 @@
     .send-evidence-button {
         margin-left: 120px;
     }
+
+    .container-one-contact {
+        height: 700px;
+    }
+      
+    .send-evidence-button-contact {
+        margin-left: 50px;
+    }
+}
+
+/*MAX WITH 580PX*/
+ @media (max-width: 580px) {
+    .container-one-contact {
+        height: 730px;
+    }
 }
 
 /*MAX WITH 550PX*/
@@ -386,5 +494,13 @@
   
     .send-evidence-button {
         margin-left: 100px;
+    }
+
+    .container-one-contact {
+        height: 750px;
+     }
+      
+    .container-two-contact h1 {
+        font-size: 18px;
     }
 }
