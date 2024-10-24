@@ -110,3 +110,26 @@
         margin-left: 20px;
     } 
 }
+
+/*MAX WITH 680PX*/
+@media (max-width: 680px) {
+    .buttons-index-container {
+        flex-direction: column;
+    }
+    
+    #about-button, #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 200px;
+    }
+    
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-top: -150px;
+    }
+    
+    .main-text-index {
+        width: 450px;
+    }
+    
+    .index-button {
+        width: 250px;
+    }
+}
