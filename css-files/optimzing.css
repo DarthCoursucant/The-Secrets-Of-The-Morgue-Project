@@ -133,3 +133,30 @@
         width: 250px;
     }
 }
+
+/*MAX WITH 600PX*/
+@media (max-width: 600px) {
+    .main-text-index {
+        width: 400px;
+        margin-left: 80px;
+    }
+    
+    .main-text-index p {
+        font-size: 20px;
+    } 
+    
+    #about-button, #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 170px;
+    }
+}
+
+/*MAX WITH 550PX*/
+@media (max-width: 550px) {
+    .main-text-index {
+        width: 350px;
+    }
+    
+     #about-button, #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 150px;
+    }
+}
