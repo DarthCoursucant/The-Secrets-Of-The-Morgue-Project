@@ -1,15 +1,15 @@
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
     .main-text-index {
-      margin-left: 200px;
+        margin-left: 200px;
     }
     
     #about-button {
-      margin-left: 130px;
+        margin-left: 130px;
     }
     
     #evidence-button, #all-posts-button, #contact-button {
-      margin-left: 60px;
+        margin-left: 60px;
     } 
 }
 
@@ -31,18 +31,33 @@
 /*MAX WITH 1120PX*/
 @media (max-width: 1120px) {
     .main-text-index {
-          margin-left: 100px;
-      }
+        margin-left: 100px;
+    }
     
     #about-button {
-          margin-left: 150px;
-      }
+        margin-left: 150px;
+    }
     
     .index-button {
-      width: 150px;
+        width: 150px;
     }
     
     .index-button a {
-      font-size: 25px;
+        font-size: 25px;
     }
-  }
+}
+
+/*MAX WITH 1050PX*/
+@media (max-width: 1050px) {
+    .main-text-index p {
+      font-size: 30px;
+    }
+    
+    .main-text-index {
+      width: 800px;
+    }
+    
+    #about-button {
+        margin-left: 120px;
+    }
+}
