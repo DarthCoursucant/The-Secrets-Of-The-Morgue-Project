@@ -6,3 +6,15 @@
 .main-text-index p:hover {
     color: rgb(255, 0, 0);
 }
+
+.hero-image-post-one:hover, .hero-image-post-six:hover, .hero-image-post-eight:hover, .hero-image-post-teen:hover, .hero-image-post-fifteen:hover, .hero-image-post-seventeen:hover, .hero-image-post-ninteen:hover, .hero-image-post-twenty-four:hover, .hero-image-post-twenty-six:hover, .hero-image-post-twenty-eight:hover {
+    box-shadow: 12px 12px 2px 1px rgba(96, 127, 250, 0.587);
+}
+
+.hero-image-post-two:hover, .hero-image-post-four:hover, .hero-image-post-nine:hover, .hero-image-post-elleven:hover, .hero-image-post-thirteen:hover, .hero-image-post-eighteen:hover, .hero-image-post-twenty:hover, .hero-image-post-twenty-two:hover, .hero-image-post-twenty-seven:hover, .hero-image-post-twenty-nine:hover {
+    box-shadow: 12px 12px 2px 1px rgba(255, 244, 90, 0.587);
+}
+
+.hero-image-post-three:hover, .hero-image-post-five:hover, .hero-image-post-seven:hover, .hero-image-post-twelve:hover, .hero-image-post-fourteen:hover, .hero-image-post-sixteen:hover, .hero-image-post-twenty-one:hover, .hero-image-post-twenty-three:hover, .hero-image-post-twenty-five:hover, .hero-image-post-thirty:hover {
+    box-shadow: 12px 12px 2px 1px rgba(140, 255, 90, 0.587);
+}
