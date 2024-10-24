@@ -26,6 +26,18 @@
     #evidence-button, #all-posts-button, #contact-button {
         margin-left: 50px;
     } 
+
+    .about-container h1 {
+        font-size: 30px;
+    }
+      
+      .about-container h2 {
+        font-size: 25px;
+    }
+      
+      .about-container p {
+        font-size: 20px;
+    }
 }
 
 /*MAX WITH 1120PX*/
@@ -59,6 +71,18 @@
     
     #about-button {
         margin-left: 120px;
+    }
+
+    .about-container h1 {
+        font-size: 25px;
+    }
+      
+      .about-container h2 {
+        font-size: 20px;
+    }
+      
+      .about-container p {
+        font-size: 18px;
     }
 }
 
@@ -94,6 +118,10 @@
     #evidence-button, #all-posts-button, #contact-button {
         margin-left: 30px;
     } 
+
+    .about-container p {
+        font-size: 15px;
+    }
 }
 
 /*MAX WITH 750PX*/
@@ -109,6 +137,11 @@
     #evidence-button, #all-posts-button, #contact-button {
         margin-left: 20px;
     } 
+
+    .about-container h2 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
 
 /*MAX WITH 680PX*/
@@ -131,6 +164,16 @@
     
     .index-button {
         width: 250px;
+    }
+
+    .about-container h1 {
+        font-size: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .about-container h2 {
+        font-size: 18px;
     }
 }
 
