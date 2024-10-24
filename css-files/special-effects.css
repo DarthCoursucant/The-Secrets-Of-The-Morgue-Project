@@ -1,0 +1,8 @@
+#about-button:hover, #evidence-button:hover, #all-posts-button:hover, #contact-button:hover {
+    background-color: red;
+    box-shadow: 12px 12px 2px 1px rgba(255, 0, 0, 0.587);
+}
+
+.main-text-index p:hover {
+    color: rgb(255, 0, 0);
+}
