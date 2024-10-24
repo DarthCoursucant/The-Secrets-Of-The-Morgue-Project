@@ -1,2 +1,14 @@
 # The-Secrets-Of-The-Morgue-Project
 A UFO Blog Website
+
+OPTIMIZING DONE
+-INDEX
+
+NOT DONE
+- HEADER
+- FOTTER
+- ABOUT
+- CONTACT
+- EVIDENCE
+- ALL POSTS 
+- INDIVIDUAL POSTS
