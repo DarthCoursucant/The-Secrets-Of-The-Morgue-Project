@@ -50,14 +50,63 @@
 /*MAX WITH 1050PX*/
 @media (max-width: 1050px) {
     .main-text-index p {
-      font-size: 30px;
+        font-size: 30px;
     }
     
     .main-text-index {
-      width: 800px;
+        width: 800px;
     }
     
     #about-button {
         margin-left: 120px;
     }
+}
+
+/*MAX WITH 950PX*/
+@media (max-width: 950px) {
+    .main-text-index {
+        width: 700px;
+    }
+    
+   .index-button {
+        width: 130px;
+    }
+    
+    .index-button a {
+        font-size: 20px;
+    }
+}
+
+/*MAX WITH 850PX*/
+@media (max-width: 850px) {
+    .main-text-index {
+        width: 600px;
+    }
+    
+    .main-text-index p {
+        font-size: 25px;
+    }
+    
+    #about-button {
+        margin-left: 80px;
+    }
+    
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 30px;
+    } 
+}
+
+/*MAX WITH 750PX*/
+@media (max-width: 750px) {
+    .main-text-index {
+        width: 500px;
+    }
+    
+    #about-button {
+        margin-left: 50px;
+    }
+    
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 20px;
+    } 
 }
