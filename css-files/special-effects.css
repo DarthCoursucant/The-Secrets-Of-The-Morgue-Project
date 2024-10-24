@@ -18,3 +18,7 @@
 .hero-image-post-three:hover, .hero-image-post-five:hover, .hero-image-post-seven:hover, .hero-image-post-twelve:hover, .hero-image-post-fourteen:hover, .hero-image-post-sixteen:hover, .hero-image-post-twenty-one:hover, .hero-image-post-twenty-three:hover, .hero-image-post-twenty-five:hover, .hero-image-post-thirty:hover {
     box-shadow: 12px 12px 2px 1px rgba(140, 255, 90, 0.587);
 }
+
+.post-button:hover {
+    background-color: rgba(253, 253, 253, 0.5);
+}
