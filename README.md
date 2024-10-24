@@ -1,9 +1,11 @@
 # The-Secrets-Of-The-Morgue-Project
 A UFO Blog Website
 
+Done 
+Contact Page
+
 NOT DONE
 - HEADER
 - FOTTER
-- CONTACT
 - EVIDENCE
 - INDIVIDUAL POSTS
