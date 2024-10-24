@@ -1,0 +1,48 @@
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .main-text-index {
+      margin-left: 200px;
+    }
+    
+    #about-button {
+      margin-left: 130px;
+    }
+    
+    #evidence-button, #all-posts-button, #contact-button {
+      margin-left: 60px;
+    } 
+}
+
+/*MAX WITH 1200PX*/
+@media (max-width: 1200px) {
+    .main-text-index {
+        margin-left: 150px;
+    }
+    
+    #about-button {
+        margin-left: 120px;
+    }
+      
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 50px;
+    } 
+}
+
+/*MAX WITH 1120PX*/
+@media (max-width: 1120px) {
+    .main-text-index {
+          margin-left: 100px;
+      }
+    
+    #about-button {
+          margin-left: 150px;
+      }
+    
+    .index-button {
+      width: 150px;
+    }
+    
+    .index-button a {
+      font-size: 25px;
+    }
+  }
