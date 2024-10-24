@@ -27,7 +27,7 @@
     background-color: rgba(251, 247, 0, 0.5);
 }
 
-.all-post-page-title-shit:hover, .container-one-contact:hover, .container-two-contact:hover, .evidence-container-shit:hover {
+.all-post-page-title-shit:hover, .container-one-contact:hover, .container-two-contact:hover, .evidence-container-shit:hover, .full-story-of-event:hover {
     background-color: rgba(68, 68, 68, 0.5);
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.587);
 }
@@ -36,6 +36,6 @@
     background-color: rgba(255, 253, 129, 0.5);
 }
 
-.container-one-contact:hover, .container-two-contact:hover, .evidence-container-shit:hover {
+.container-one-contact:hover, .container-two-contact:hover, .evidence-container-shit:hover, .full-story-of-event:hover {
     color: #ffffff;
 }
