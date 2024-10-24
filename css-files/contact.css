@@ -49,12 +49,12 @@
     padding-right: 20px;
 }
 
-.send-evidence-button a {
+.send-evidence-button-contact a {
     text-decoration: none;
     color: #ff0000;
 }
 
-.send-evidence-button {
+.send-evidence-button-contact {
     width: 300px;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 20px;
