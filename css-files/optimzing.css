@@ -123,6 +123,18 @@
         padding-left: 50px;
         padding-right: 50px;
     }
+
+    .full-story-of-event h1 {
+        font-size: 30px;
+    }
+      
+    .full-story-of-event h2 {
+        font-size: 25px;
+    }
+      
+    .full-story-of-event p {
+        font-size: 20px;
+    }
 }
 
 /*MAX WITH 1120PX*/
@@ -245,6 +257,18 @@
 
     .button-thing {
         margin-left: 250px;
+    }
+
+    .full-story-of-event h1 {
+        font-size: 25px;
+    }
+      
+    .full-story-of-event h2 {
+        font-size: 20px;
+    }
+      
+    .full-story-of-event p {
+        font-size: 15px;
     }
 }
 
