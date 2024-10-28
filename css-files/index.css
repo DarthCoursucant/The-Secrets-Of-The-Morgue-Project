@@ -48,6 +48,17 @@
     border-radius: 25px;
     text-align: center;
     width: 80%;
-    color: #ffffff;
+    color: red;
+    border: 2px solid red;
+}
 
+.ad-content h1 {
+  font-size: 15%;
+}
+
+.ad-content p {
+  font-size: 70%;
+  text-transform: capitalize;
+  padding-left: 50px;
+  padding-right: 50px;
 }
