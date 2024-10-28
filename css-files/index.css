@@ -28,3 +28,23 @@
 #evidence-button, #all-posts-button, #contact-button {
     margin-left: 100px;
   }
+
+  /* Basic styling for the modal */
+  #popupAd {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    background-color: rgba(0, 0, 0, 0.5); /* Black background with opacity */
+    z-index: 1000; /* Sit on top */
+    justify-content: center; /* Center the content */
+    align-items: center; /* Center the content */
+}
+.ad-content {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
