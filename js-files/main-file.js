@@ -10,5 +10,5 @@ function closeAd() {
 
 // Set a timer to show the ad after 15 seconds
 window.onload = function() {
-    setTimeout(showAd, 15000); // 15000 milliseconds = 15 seconds
+    setTimeout(showAd, 10000); // 10000 milliseconds = 10 seconds
 };
