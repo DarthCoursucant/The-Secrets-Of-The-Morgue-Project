@@ -50,6 +50,7 @@
     width: 80%;
     color: red;
     border: 2px solid red;
+    height: 30%;
 }
 
 .ad-content h1 {
@@ -61,4 +62,14 @@
   text-transform: capitalize;
   padding-left: 50px;
   padding-right: 50px;
+}
+
+button {
+  width: 30%;
+  height: 15%;
+  border-radius: 25px;
+  border: 2px solid red;
+  background-color: #ffffff;
+  color: red;
+  font-size: 55%;
 }
