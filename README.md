@@ -4,8 +4,8 @@ A UFO Blog Website
 Done 
 Contact Page
 Evicdence 
+INDIVIDUAL POSTS
 
 NOT DONE
 - HEADER
 - FOTTER
-- INDIVIDUAL POSTS
