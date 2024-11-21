@@ -52,6 +52,18 @@
     .send-evidence-button-contact a {
         font-size: 20px;
     }
+
+    .evidence-container-shit h1 {
+        font-size: 30px;
+      }
+      
+    .evidence-container-shit p {
+        font-size: 20px;
+    }
+      
+    .button-thing {
+        margin-top: 60px;
+    }
 }
 
 /*MAX WITH 1200PX*/
@@ -106,6 +118,23 @@
         font-size: 18px;
         margin-top: 20px;
     }
+
+    .evidence-container-shit p {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .full-story-of-event h1 {
+        font-size: 30px;
+    }
+      
+    .full-story-of-event h2 {
+        font-size: 25px;
+    }
+      
+    .full-story-of-event p {
+        font-size: 20px;
+    }
 }
 
 /*MAX WITH 1120PX*/
@@ -136,6 +165,10 @@
 
     .send-evidence-button-contact {
         width: 150px;
+    }
+
+    .button-thing {
+        margin-left: 300px;
     }
 }
 
@@ -180,6 +213,18 @@
     .send-evidence-button-contact {
         margin-left: 120px;
     }
+
+    .evidence-container-shit h1 {
+        font-size: 25px;
+    }
+    
+    .evidence-container-shit p {
+        font-size: 17px;
+    }
+      
+    .button-thing {
+        margin-left: 270px;
+    }
 }
 
 /*MAX WITH 1000PX*/
@@ -208,6 +253,22 @@
 
     .send-evidence-button {
         width: 250px;
+    }
+
+    .button-thing {
+        margin-left: 250px;
+    }
+
+    .full-story-of-event h1 {
+        font-size: 25px;
+    }
+      
+    .full-story-of-event h2 {
+        font-size: 20px;
+    }
+      
+    .full-story-of-event p {
+        font-size: 15px;
     }
 }
 
@@ -251,6 +312,15 @@
         width: 100px;
         margin-left: 130px;
     }
+
+    .button-thing {
+        width: 200px;
+        height: 40px;
+    }
+    
+    .button-thing a {
+        font-size: 25px;
+    }
 }
 
 /*MAX WITH 900PX*/
@@ -263,8 +333,12 @@
     
     .send-evidence-button a {
         font-size: 25px;
-    } 
-  }
+    }
+
+    .evidence-container-shit p {
+        font-size: 15px;
+    }
+}
 
 /*MAX WITH 850PX*/
 @media (max-width: 850px) {
@@ -303,6 +377,10 @@
       
     .post-button {
         margin-left: 150px;
+    }
+
+    .button-thing {
+        margin-left: 230px;
     }
 }
 
@@ -345,6 +423,15 @@
 
     .send-evidence-button-contact {
         margin-left: 80px;
+    }
+
+    .button-thing {
+        width: 150px;
+        height: 45px;
+    }
+      
+    .button-thing a {
+        font-size: 20px;
     }
 }
 
@@ -421,12 +508,24 @@
         margin-top: 0px;
         margin-bottom: 50px;
     }
+
+    .button-thing {
+        margin-left: 180px;
+    }
+      
+    .evidence-container-shit h1 {
+        font-size: 20px;
+    }
 }
 
 /*MAX WITH 630PX*/
 @media (max-width: 630px) {
     .container-one-contact {
         height: 680px;
+    }
+
+    .button-thing {
+        margin-left: 160px;
     }
 }
 
@@ -465,6 +564,11 @@
     .send-evidence-button-contact {
         margin-left: 50px;
     }
+
+    .button-thing {
+        margin-top: 20px;
+        margin-left: 140px;
+    }
 }
 
 /*MAX WITH 580PX*/
@@ -502,5 +606,10 @@
       
     .container-two-contact h1 {
         font-size: 18px;
+    }
+
+    .button-thing {
+        margin-left: 120px;
+        margin-top: 10px;
     }
 }

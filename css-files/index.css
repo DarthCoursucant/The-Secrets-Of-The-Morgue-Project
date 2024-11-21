@@ -7,7 +7,7 @@
   }
 
 .index-button {
-    background-color: #818181;
+    background-color: red;
     border-radius: 20px;
     border: 2px solid #ffffff;
     width: 200px;
@@ -28,3 +28,48 @@
 #evidence-button, #all-posts-button, #contact-button {
     margin-left: 100px;
   }
+
+  /* Basic styling for the modal */
+  #popupAd {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    background-color: rgba(226, 226, 226, 0.6); /* Black background with opacity */
+    z-index: 1000; /* Sit on top */
+    justify-content: center; /* Center the content */
+    align-items: center; /* Center the content */
+}
+.ad-content {
+    background: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    width: 80%;
+    color: red;
+    border: 2px solid red;
+    height: 30%;
+}
+
+.ad-content h1 {
+  font-size: 15%;
+}
+
+.ad-content p {
+  font-size: 70%;
+  text-transform: capitalize;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+button {
+  width: 30%;
+  height: 15%;
+  border-radius: 25px;
+  border: 2px solid red;
+  background-color: #ffffff;
+  color: red;
+  font-size: 55%;
+}
