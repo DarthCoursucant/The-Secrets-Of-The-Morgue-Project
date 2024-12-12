@@ -1,3 +1,38 @@
+/*MAX WITH 1460PX*/
+@media (max-width: 1460px) {
+    .icon-location-header {
+        margin-left: 950px;
+    }
+}
+
+/*MAX WITH 1440PX*/
+@media (max-width: 1440px) {
+    .icon-location-header {
+        margin-left: 900px;
+    }
+}
+
+/*MAX WITH 1400PX*/
+@media (max-width: 1400px) {
+    .icon-location-header {
+        margin-left: 860px;
+    }
+}
+
+/*MAX WITH 1360PX*/
+@media (max-width: 1360px) {
+    .icon-location-header {
+        margin-left: 820px;
+    }
+}
+
+/*MAX WITH 1315PX*/
+@media (max-width: 1315px) {
+    .icon-location-header {
+        margin-left: 800px;
+    }
+}
+
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
     .main-text-index {
@@ -63,6 +98,17 @@
       
     .button-thing {
         margin-top: 60px;
+    }
+
+    .icon-location-header {
+        margin-left: 750px;
+    }
+}
+
+/*MAX WITH 1260PX*/
+@media (max-width: 1260px) {
+    .icon-location-header {
+        margin-left: 700px;
     }
 }
 
@@ -135,6 +181,22 @@
     .full-story-of-event p {
         font-size: 20px;
     }
+
+    .logo-location img {
+        width: 180px;
+        height: 80px;
+    }
+
+    .icon-location-header {
+        margin-left: 680px;
+    }
+}
+
+/*MAX WITH 1150PX*/
+@media (max-width: 1150px) {
+    .icon-location-header {
+        margin-left: 650px;
+    }
 }
 
 /*MAX WITH 1120PX*/
@@ -169,6 +231,17 @@
 
     .button-thing {
         margin-left: 300px;
+    }
+
+    .icon-location-header {
+        margin-left: 620px;
+    }
+}
+
+/*MAX WITH 1080PX*/
+@media (max-width: 1080px) {
+    .icon-location-header {
+        margin-left: 590px;
     }
 }
 
@@ -225,6 +298,17 @@
     .button-thing {
         margin-left: 270px;
     }
+
+    .icon-location-header {
+        margin-left: 550px;
+    }
+}
+
+/*MAX WITH 1010PX*/
+@media (max-width: 1010px) {
+    .icon-location-header {
+        margin-left: 535px;
+    }
 }
 
 /*MAX WITH 1000PX*/
@@ -270,6 +354,33 @@
     .full-story-of-event p {
         font-size: 15px;
     }
+
+    .icon-location-header {
+        margin-left: 500px;
+    }
+
+    .all-posts-icon img {
+        width: 30px;
+        height: 30px;
+      }
+      
+      .about-icon img {
+        width: 45px;
+        height: 45px;
+        margin-top: -8px;
+      }
+      
+      .contact-icon img {
+        width: 40px;
+        height: 40px;
+        margin-top: -8px;
+      }
+      
+      .evidence-icon img {
+        width: 40px;
+        height: 35px;
+        margin-top: -5px;
+      }
 }
 
 /*MAX WITH 950PX*/
@@ -321,6 +432,10 @@
     .button-thing a {
         font-size: 25px;
     }
+
+    .icon-location-header {
+        margin-left: 450px;
+    }
 }
 
 /*MAX WITH 900PX*/
@@ -337,6 +452,10 @@
 
     .evidence-container-shit p {
         font-size: 15px;
+    }
+
+    .icon-location-header {
+        margin-left: 400px;
     }
 }
 
@@ -382,7 +501,18 @@
     .button-thing {
         margin-left: 230px;
     }
+
+    .icon-location-header {
+        margin-left: 350px;
+    }
 }
+
+/*MAX WITH 800PX*/
+@media (max-width: 800px) {
+    .icon-location-header {
+        margin-left: 300px;
+    }
+  }
 
 /*MAX WITH 750PX*/
 @media (max-width: 750px) {
@@ -433,7 +563,18 @@
     .button-thing a {
         font-size: 20px;
     }
+
+    .icon-location-header {
+        margin-left: 250px;
+    }
 }
+
+/*MAX WITH 700PX*/
+@media (max-width: 700px) {
+    .icon-location-header {
+          margin-left: 230px;
+      }
+  }
 
 /*MAX WITH 680PX*/
 @media (max-width: 680px) {
@@ -516,6 +657,10 @@
     .evidence-container-shit h1 {
         font-size: 20px;
     }
+
+    .icon-location-header {
+        margin-left: 180px;
+    }
 }
 
 /*MAX WITH 630PX*/
@@ -526,6 +671,10 @@
 
     .button-thing {
         margin-left: 160px;
+    }
+
+    .icon-location-header {
+        margin-left: 140px;
     }
 }
 
