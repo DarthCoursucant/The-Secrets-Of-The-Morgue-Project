@@ -213,6 +213,10 @@
     .ad-content h2 {
         font-size: 30px;
     }
+
+    #mail-link-footer {
+        margin-left: 250px;
+      }
 }
 
 /*MAX WITH 1120PX*/
@@ -486,6 +490,14 @@
     .icon-location-header {
         margin-left: 400px;
     }
+
+    #mail-link-footer {
+        margin-left: 150px;
+    }
+
+    #instagram-link-footer img, #facebook-link-footer img, #twitter-link-footer img, #linkedin-link-footer img, #twitch-link-footer img, #spotify-link-footer img, #youtube-link-footer img, #goodreads-link-footer img {
+        margin-left: 10px;
+    }
 }
 
 /*MAX WITH 850PX*/
@@ -610,7 +622,11 @@
 /*MAX WITH 700PX*/
 @media (max-width: 700px) {
     .icon-location-header {
-          margin-left: 230px;
+        margin-left: 230px;
+    }
+
+    #mail-link-footer {
+        margin-left: 50px;
     }
 }
 
@@ -755,6 +771,14 @@
     .button-thing {
         margin-top: 20px;
         margin-left: 140px;
+    }
+
+    #instagram-link-footer img, #facebook-link-footer img, #twitter-link-footer img, #linkedin-link-footer img, #twitch-link-footer img, #spotify-link-footer img, #youtube-link-footer img, #goodreads-link-footer img {
+        margin-left: 5px;
+    }
+
+    #mail-link-footer {
+        margin-left: 20px;
     }
 }
 
