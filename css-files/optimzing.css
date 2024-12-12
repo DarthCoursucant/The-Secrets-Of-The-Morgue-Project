@@ -24,6 +24,12 @@
     .icon-location-header {
         margin-left: 820px;
     }
+
+    .ad-content {
+        width: 1000px;
+        height: 300px;
+        margin-top: 50px;
+    }
 }
 
 /*MAX WITH 1315PX*/
@@ -196,6 +202,16 @@
 @media (max-width: 1150px) {
     .icon-location-header {
         margin-left: 650px;
+    }
+
+    .ad-content {
+        width: 800px;
+        height: 350px;
+        margin-top: 50px;
+    }
+  
+    .ad-content h2 {
+        font-size: 30px;
     }
 }
 
@@ -436,6 +452,19 @@
     .icon-location-header {
         margin-left: 450px;
     }
+
+    .ad-content {
+        width: 650px;
+        height: 250px;
+    }
+  
+    .ad-content h2 {
+        font-size: 30px;
+    }
+  
+    .ad-content p {
+        font-size: 20px;
+    }
 }
 
 /*MAX WITH 900PX*/
@@ -512,7 +541,16 @@
     .icon-location-header {
         margin-left: 300px;
     }
-  }
+
+    .ad-content {
+        width: 550px;
+        height: 250px;
+    }
+  
+    .ad-content h2 {
+        font-size: 25px;
+    }
+}
 
 /*MAX WITH 750PX*/
 @media (max-width: 750px) {
@@ -573,8 +611,8 @@
 @media (max-width: 700px) {
     .icon-location-header {
           margin-left: 230px;
-      }
-  }
+    }
+}
 
 /*MAX WITH 680PX*/
 @media (max-width: 680px) {
